@@ -1,5 +1,5 @@
 {
-  "name": "proyectbasereacttailwindcss",
+  "name": "listaDeEmpleados",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "webpack serve --mode development --config webpack.config.js --host 0.0.0.0",    
+    "start": "webpack serve --mode development --config webpack.config.js --host 0.0.0.0",
     "prebuild": "postcss src/assets/css/styles.css --output dist/css/styles.css",
     "build": "webpack --mode production",
     "postbuild": "cd /dist && gzip *.js && gzip *.css",
