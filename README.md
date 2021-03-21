@@ -1,4 +1,4 @@
-# Base React + TailwindCSS
+# Ejercicio Tecnico - Lista Empleados
 Esta prueba tecnica la realice usando un proyecto base que se encuentra publico en mis repositorios.
 ## Para instalar las dependencias
 
